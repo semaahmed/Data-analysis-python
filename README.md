@@ -1,6 +1,6 @@
 #  Supermarket sales data analysis python
 
-### My goal is to explore the supermarket_sales dataset to spot some interesting indicators that can potentially serve for business strategy purposes. For example, where to emphasize a new technology of payment to encourage cashless transactions.
+My goal is to explore the supermarket_sales dataset to spot some interesting indicators that can potentially serve for business strategy purposes. For example, where to emphasize a new technology of payment to encourage cashless transactions.
 
 ### Name: Supermarket sales dataset
 
